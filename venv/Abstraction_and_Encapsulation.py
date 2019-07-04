@@ -55,5 +55,6 @@ while True:
         quit()
     else:
         print("Enter right option!")
+        print("Finally GIT implemented")
 
 
