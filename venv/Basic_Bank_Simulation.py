@@ -103,7 +103,6 @@ while True:
                 elif userInput is 4:
                     break
     elif userChoice is 3:
-        print('Git Commit')
         quit()
 
 
